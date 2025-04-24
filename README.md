@@ -1,8 +1,9 @@
-# CSE321-Operating_System-Lab
+# BRACU CSE321(Operating_System) Lab
 All of my lab files and assignments for BRACU CSE321(Operating System) Course
 # Term Projects
 ## Project 1: [UNIX shell using C](https://github.com/MahathiR27/UNIX-Shell-Project)
 **Repository:** https://github.com/MahathiR27/UNIX-Shell-Project
+
 **Details:** The shell must be able to run basic linux commands, I/O redirections and handle errors. Following core features must be implemented:
 1. Display a command prompt (e.g., `sh>` ) and read user input.
 2. Parse and execute system commands.  
@@ -23,8 +24,8 @@ _Hint: Use `signal` and `sigaction`._
 |--|--|
 |Basic shell functionality & built-in command support|40|
 |Redirection (`<`, `>`, `>>`)|15|
-|Piping (`|`)|15|
+|Piping|15|
 |Signal handling|15|
-|Logical opt. in terminal|10|
+|Logical opt. in terminal (`;`, `&`)|10|
 |History|5|
 |**Total**|**100 (Converts to 5)**|
