@@ -2,8 +2,9 @@
 # BRACU CSE321(Operating System)
 * The [lab_assignments](https://github.com/MahathiR27/BRACU-CSE321-Operating_System/tree/main/lab_assignments) includes all of the **lab assignment questions** and the their **solution**.
 * The [lab_files](https://github.com/MahathiR27/BRACU-CSE321-Operating_System/tree/main/lab_files) are kind of like **personal notes** so, it might not help much. The lab faculties will provide you all of the lab pdf and resouces so just follow that.
-* The [theory_slides]() contains slides created by NTR, which I personally **followed**. How ever you can also see the [Central Slides](https://drive.google.com/drive/folders/1zN6sltZiY-D1xze6Zcpd_VvXXzi5C0J7?usp=drive_link) which are lot smaller but are **missing** many important information.
-* The [problem_sheets]() has all the theory **problem sheets and solutions**.
+* The [theory_slides](https://github.com/MahathiR27/BRACU-CSE321-Operating_System/tree/main/theory_sldes) contains slides created by NTR, which I personally **followed**. How ever you can also see the [Central Slides](https://drive.google.com/drive/folders/1zN6sltZiY-D1xze6Zcpd_VvXXzi5C0J7?usp=drive_link) which are lot smaller but are **missing** many important information.
+* The [problem_sheets](https://github.com/MahathiR27/BRACU-CSE321-Operating_System/tree/main/practice_sheet) has all the theory **problem sheets and solutions**.
+
 * I am not including theory assignments, as they are just **research based** assignments. You will just have to a lot of Googling.
 
 # Term Projects
@@ -36,3 +37,4 @@ _Hint: Use `signal` and `sigaction`._
 -   Inode and data bitmaps
 
 The checker will operate on a file system image (vsfs.img), identifying and reporting any inconsistencies found.
+
